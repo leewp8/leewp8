@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Lee</h1>
 <h3 align="center">A passionate full stack developer from South Carolina</h3>
 
-- 🌱 I’m currently learning **Javascript,**
+- 🌱 I’m currently learning **Javascript, Node**
 
 - 💬 Ask me about **Node, react, SQLite**
 
