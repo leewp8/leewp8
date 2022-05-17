@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **leewp8@gmail.com**
 
-- 📄 Know about my experiences [WilliamLee-Resume](https://docs.google.com/document/d/1X0Vkcqc0a7OkOrpoP4UbtLiHnJYp5Kq-gJYJNu6yR1w/edit?usp=sharing)
-
 - ⚡ Fun fact **I lived in Thailand for a year and taught English**
 
 <h3 align="left">Connect with me:</h3>
